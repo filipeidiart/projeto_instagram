@@ -1,2 +1,2 @@
-# projeto_instagram
+# Projeto Instagram
 Desafio de Projeto do Instagram
